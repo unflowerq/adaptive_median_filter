@@ -1,0 +1,3 @@
+﻿  adaptive_median_filter.cpp
+c:\users\hep93\documents\visual studio 2015\projects\adaptive_median_filter\adaptive_median_filter\adaptive_median_filter.cpp(25): warning C4101: 'Pad_img' :참조되지 않은 지역 변수입니다.
+  adaptive_median_filter.vcxproj -> C:\Users\hep93\Documents\Visual Studio 2015\Projects\adaptive_median_filter\Debug\adaptive_median_filter.exe
